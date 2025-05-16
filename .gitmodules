@@ -1,3 +1,9 @@
 [submodule "frontend"]
 	path = frontend
 	url = https://github.com/Desirium/desirium-frontend.git
+[submodule "contract"]
+	path = contract
+	url = https://github.com/Desirium/desirium-contract.git
+[submodule "backend"]
+	path = backend
+	url = https://github.com/Desirium/desirium-backend.git
